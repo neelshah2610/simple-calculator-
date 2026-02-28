@@ -1,2 +1,10 @@
-# simple-calculator-
-An initial commit in a GitHub repository is the first saved version of a project. It records essential files like README and setup files, creating the project’s starting point. This commit establishes version tracking and forms the foundation for all future changes and collaboration.
+Introduction to Git and GitHub
+Simple Interest Calculator
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
